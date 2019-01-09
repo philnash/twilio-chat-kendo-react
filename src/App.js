@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Login from './Login';
+import ChatApp from './ChatApp';
 import '@progress/kendo-theme-default/dist/all.css';
 
 class App extends Component {
@@ -25,7 +26,7 @@ class App extends Component {
   render() {
     let loginOrChat;
     if (this.state.loggedIn) {
-      loginOrChat = <p>Logged in as {this.state.username}</p>;
+      loginOrChat = <ChatApp username={this.state.username}/>;
     } else {
       loginOrChat = (
         <Login
