@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Login from './Login';
 import ChatApp from './ChatApp';
-import '@progress/kendo-theme-default/dist/all.css';
+import '@progress/kendo-theme-material/dist/all.css';
 
 class App extends Component {
   constructor(props) {
