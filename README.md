@@ -1,4 +1,4 @@
-# Twilio Programmable Chat with Kendo Conversational UI and React
+# Twilio Programmable Chat with KendoReact Conversational UI and React
 
 This is an example application that sets up [Twilio Programmable Chat](https://www.twilio.com/docs/chat) with a React and [KendoReact UI](https://www.telerik.com/kendo-react-ui/).
 
