@@ -2,6 +2,8 @@
 
 This is an example application that sets up [Twilio Programmable Chat](https://www.twilio.com/docs/chat) with a React and [KendoReact UI](https://www.telerik.com/kendo-react-ui/).
 
+Learn more with the blog post [Build a chat app with Twilio and KendoReact](https://www.twilio.com/blog/chat-app-twilio-kendoreact).
+
 ## Using this project
 
 Clone the project, change into the directory and install the dependencies.
