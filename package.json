@@ -10,7 +10,7 @@
     "@progress/kendo-theme-material": "^2.5.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^5.0.1",
     "twilio-chat": "^3.3.2"
   },
   "scripts": {
