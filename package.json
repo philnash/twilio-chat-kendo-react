@@ -11,7 +11,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "^5.0.1",
-    "twilio-chat": "^3.3.2"
+    "twilio-chat": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
